@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prControles", "prControles.csproj", "{DF3FE24F-2E5B-4DD7-90C2-D0782B4ACDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3FE24F-2E5B-4DD7-90C2-D0782B4ACDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3FE24F-2E5B-4DD7-90C2-D0782B4ACDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3FE24F-2E5B-4DD7-90C2-D0782B4ACDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3FE24F-2E5B-4DD7-90C2-D0782B4ACDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7646BE9F-08CC-4097-86CD-7B36A311916E}
+	EndGlobalSection
+EndGlobal

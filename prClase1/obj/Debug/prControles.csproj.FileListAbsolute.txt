@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\bin\Debug\prClase1.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\bin\Debug\prClase1.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\bin\Debug\prClase1.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prControles.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prClase1.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prClase1.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prControles.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prClase1.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prClase1\obj\Debug\prClase1.pdb
