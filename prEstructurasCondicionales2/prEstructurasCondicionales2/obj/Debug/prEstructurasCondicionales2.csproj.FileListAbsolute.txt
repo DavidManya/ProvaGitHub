@@ -7,3 +7,4 @@ C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasCondicionales2\prEstructurasCond
 C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.csproj.GenerateResource.cache
 C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.exe
 C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasCondicionales2\prEstructurasCondicionales2\obj\Debug\prEstructurasCondicionales2.frclima.resources
