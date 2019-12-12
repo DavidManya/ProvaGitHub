@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prEstructurasmultiples", "prEstructurasmultiples\prEstructurasmultiples.csproj", "{1587486E-51AB-436C-9C9A-25493FB24113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1587486E-51AB-436C-9C9A-25493FB24113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1587486E-51AB-436C-9C9A-25493FB24113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1587486E-51AB-436C-9C9A-25493FB24113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1587486E-51AB-436C-9C9A-25493FB24113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906526C2-1E1B-44C1-9C74-EBA2B692BD2D}
+	EndGlobalSection
+EndGlobal
