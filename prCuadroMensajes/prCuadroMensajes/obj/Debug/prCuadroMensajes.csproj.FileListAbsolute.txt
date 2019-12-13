@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\bin\Debug\prCuadroMensajes.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\bin\Debug\prCuadroMensajes.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\bin\Debug\prCuadroMensajes.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prCuadroMensajes\prCuadroMensajes\obj\Debug\prCuadroMensajes.pdb
