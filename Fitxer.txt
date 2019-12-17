@@ -1,4 +1,7 @@
 FICHERET DE TEXTE PER FER PROVES
 ARA HE AFEGIT AQUESTA LÍNIA
 CANVI A DEVELOP
-He tret els canvis
+He fet un altre canvi per fer la prova de l'exercici
+Ara faig un canvi a master
+Els deixo i afegeixo aquesta línia. Aquesta versió és la bona
+
