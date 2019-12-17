@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\bin\Debug\prOperadores.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\bin\Debug\prOperadores.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\bin\Debug\prOperadores.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prOperadores\prOperadores\obj\Debug\prOperadores.pdb

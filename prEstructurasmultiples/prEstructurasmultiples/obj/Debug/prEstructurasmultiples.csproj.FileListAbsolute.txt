@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\bin\Debug\prEstructurasmultiples.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\bin\Debug\prEstructurasmultiples.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\bin\Debug\prEstructurasmultiples.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prEstructurasmultiples\prEstructurasmultiples\obj\Debug\prEstructurasmultiples.pdb

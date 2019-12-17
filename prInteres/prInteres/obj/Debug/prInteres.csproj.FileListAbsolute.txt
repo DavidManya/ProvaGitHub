@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\bin\Debug\prInteres.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\bin\Debug\prInteres.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\bin\Debug\prInteres.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prInteres\prInteres\obj\Debug\prInteres.pdb

@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\bin\Debug\prControlTimer.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\bin\Debug\prControlTimer.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\bin\Debug\prControlTimer.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prControlTimer\prControlTimer\obj\Debug\prControlTimer.pdb

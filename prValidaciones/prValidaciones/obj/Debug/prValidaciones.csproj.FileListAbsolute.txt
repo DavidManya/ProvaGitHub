@@ -1,0 +1,9 @@
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\bin\Debug\prValidaciones.exe.config
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\bin\Debug\prValidaciones.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\bin\Debug\prValidaciones.pdb
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.Form1.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.Properties.Resources.resources
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.csproj.GenerateResource.cache
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.exe
+C:\Users\dmany\Desktop\ProvaGitHub\prValidaciones\prValidaciones\obj\Debug\prValidaciones.pdb
