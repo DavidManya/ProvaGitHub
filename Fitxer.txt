@@ -1,3 +1,4 @@
 FICHERET DE TEXTE PER FER PROVES
 ARA HE AFEGIT AQUESTA LÍNIA
 CANVI A DEVELOP
+He fet un altre canvi per fer la prova de l'exercici
